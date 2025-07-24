@@ -1,1 +1,8 @@
-{}
+{
+  "bornfirst01": {
+    "Reason": "a",
+    "Duration": "1d",
+    "Player": "bornfirst01 (external)",
+    "Type": "Ban"
+  }
+}
