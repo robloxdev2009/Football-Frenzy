@@ -1,1 +1,8 @@
-{}
+{
+  "bornfirst01": {
+    "Reason": "perm",
+    "Duration": "0.01h",
+    "Player": "bornfirst01 (external)",
+    "Type": "Ban"
+  }
+}
