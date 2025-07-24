@@ -1,8 +1,6 @@
 {
   "bornfirst01": {
-    "Reason": "test",
-    "Duration": "0.1h",
-    "Player": "bornfirst01 (external)",
-    "Type": "Ban"
+    "Player": "bornfirst01",
+    "Type": "Unban"
   }
 }
