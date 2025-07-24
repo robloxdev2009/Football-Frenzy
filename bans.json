@@ -1,14 +1,8 @@
 {
-  "bornfirst01" : {
+  "bornfirst01": {
     "Reason": "Exploits",
     "Duration": "perm",
     "Player": "yayaya",
     "Type": "Unban"
-  },
-
-  "bornfirst02" : {
-    "Reason": "Exploits",
-    "Duration": "perm",
-    "Player": "yayaya",
-    "Type": "Unban"
-  }}
+  }
+}
