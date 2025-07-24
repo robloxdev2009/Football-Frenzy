@@ -2,6 +2,7 @@
   "noob1234" : {
     "Reason": "Exploits",
     "Duration": "perm",
-    "Admin": "yayaya"
+    "Admin": "yayaya",
+    "Type": "Unban"
   }
 }
